@@ -1,0 +1,4 @@
+.DS_Store
+data/fma_metadata/*
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
