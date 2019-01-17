@@ -1,0 +1,2 @@
+filename,audio_coeff,temporal_coeff,features_coeff,threshold,clustering_coeff
+fig/echonest_audio_only.png,1,0,0,0.99,0.4076815905987252
