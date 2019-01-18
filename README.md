@@ -8,4 +8,4 @@
 - `report.pdf`is the scientific report of the whole project.
 
 ## Reproducability
-In order to run the notebook and play with the code, you only need to create a data folder at the root and unzip [this folder](https://os.unil.cloud.switch.ch/fma/fma_metadata.zip) in it.
+In order to run the notebook and play with the code, you only need to create a `data/` folder at the root and unzip [this folder](https://os.unil.cloud.switch.ch/fma/fma_metadata.zip) in it.
